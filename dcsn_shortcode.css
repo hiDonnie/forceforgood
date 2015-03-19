@@ -1,0 +1,38 @@
+/* Icon Variations 
+-------------------------------------------------------------- */
+.red_sprite,.red_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_770000.png) !important;}
+.orange_sprite,.orange_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_e98813.png) !important;}
+.yellow_sprite,.yellow_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_f7c808.png) !important;}
+.green_sprite,.green_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_74941f.png) !important;}
+.olive_sprite,.olive_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_3a491a.png) !important;}
+.teal_sprite,.teal_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_008899.png) !important;}
+.blue_sprite,.blue_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_00437f.png) !important;}
+.deepblue_sprite,.deepblue_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_092334.png) !important;}
+.purple_sprite,.purple_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_4b2c5a.png) !important;}
+.hotpink_sprite,.hotpink_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_bc006e.png) !important;}
+.slategrey_sprite,.slategrey_numbers li:before{background-image:url(/Frontend/images/v2mages/shortcodes/sprites/custom_sprite_3b424a.png) !important;}
+.mauve_sprite,.mauve_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_625b56.png) !important;}
+.pearl_sprite,.pearl_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_ab998f.png) !important;}
+.steelblue_sprite,.steelblue_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_788794.png) !important;}
+.mossgreen_sprite,.mossgreen_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_717a75.png) !important;}
+.wheat_sprite,.wheat_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_79745d.png) !important;}
+.coffee_sprite,.coffee_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_372e25.png) !important;}
+.copper_sprite,.copper_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_6b3c02.png) !important;}
+.silver_sprite,.silver_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) !important;}
+.black_sprite,.black_numbers li:before{background-image:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_222222.png) !important;}
+
+/* Fancy Lists 
+-------------------------------------------------------------- */
+.fancy_list,.sitemap_list{padding-left:0;}
+.fancy_list li,.sitemap_list li{padding-left:22px;list-style:none;margin-top:5px;background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -303px -320px;}
+.fancy_list .comment_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -380px -241px;}
+.fancy_list .bullet_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_00437f.png) no-repeat -67px -557px;}
+.fancy_list .check_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -461px -161px;}
+.fancy_list .minus_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -101px -518px;}
+.fancy_list .plus_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -141px -478px;}
+.fancy_list .star_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -581px -41px;}
+.fancy_list .arrow_list{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -303px -320px;}
+.fancy_list .circle_arrow{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -619px -2px;}
+.fancy_list .triangle_arrow{background:url(/Frontend/images/v2/shortcodes/sprites/custom_sprite_dddddd.png) no-repeat -500px -124px;}
+.sitemap_list .children{padding-left:0;}
+.fancy_list .noIndent { padding-left:25px; }
