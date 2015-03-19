@@ -1,0 +1,105 @@
+#sidebar {
+   /* padding-top: 0;*/
+    font-size:12px;
+	width:215px;
+}
+#sidebar #subnav, #sidebar #subnav .widgetArea {
+    margin-right:10px;
+}
+
+#sidebar #subnav ul{
+    margin-bottom:0;
+	width:215px;
+}
+
+#sidebar #subnav ul li:first-child{
+    border-top:1px solid #e6eaec;
+}
+
+#sidebar #subnav ul li {
+    border-bottom:1px solid #e6eaec;
+    margin:0;
+}
+#sidebar #subnav ul li a {
+    display:block;
+    /*padding: 0.5833em 0 0.8333em 1.6667em;*/
+    padding: 0.5833em 0 0.8333em 0.6667em;
+    text-decoration:none;
+    color:#666;
+}
+
+#sidebar #subnav ul{
+    margin-bottom:0;
+}
+#sidebar #subnav p { margin:0; padding:0 }
+#sidebar #subnav p, #sidebar #subnav ul {
+    margin-top: 0em;
+    margin-bottom: 1.5em;
+}
+
+#sidebar #subnav ol, #sidebar #subnav ul {
+    list-style: none;
+}
+
+#sidebar #subnav ul li:first-child {
+border-top: 1px solid #E6EAEC;
+}
+#sidebar #subnav ul li {
+border-bottom: 1px solid #E6EAEC;
+margin: 0;
+}
+#sidebar #subnav li {
+margin-bottom: 1.5em;
+}
+    #sidebar #subnav ul li a {
+        margin-right:10px;
+    }
+#sidebar #subnav ul li a.active, #sidebar #subnav ul li a:hover
+{
+    /*color: #3C7CBB;*/
+    color:#3C7CBB;
+    background-color: #F5F5F5;
+	margin-right:5px;
+} 
+#sidebar #subnav a:link, #sidebar #subnav a:visited {
+color: #3C7CBB;
+}
+#sidebar #subnav a:link, #sidebar #subnav a:visited {
+color: #3C7CBB;
+}
+#sidebar #subnav a:link, #sidebar #subnav a:visited {
+text-decoration: none;
+}
+#sidebar #subnav a:link, #sidebar #subnav a:visited {
+text-decoration: none;
+}
+#sidebar #subnav a, #sidebar #subnav a:visited {
+outline: 0;
+}
+#sidebar #subnav a, #sidebar #subnav a:visited {
+outline: 0;
+}
+#sidebar #subnav a.NavigationSelected
+{
+    color: #0F4D8D;
+    background-color: #ffffff;
+    margin-right:0px;
+}
+#sidebar #subnav a.NavigationSelected:hover
+{
+    color: #0F4D8D;
+    background-color: #FFFFFF;
+	margin-right:0px;
+	cursor: default;
+}
+
+#sidebar .littleShadow {
+background: transparent url('../../../Images/v2/little-shadow.png') no-repeat center bottom;
+height: 0.9em;
+opacity: 0.5;
+}
+
+a[disabled=disabled]
+{
+display:none !important;
+}
